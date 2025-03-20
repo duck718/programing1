@@ -28,5 +28,6 @@ SQL (데이터베이스 쿼리)<br>
 GitHub는 거의 모든 언어를 지원하며, 저장소의 .gitattributes 파일에서 특정 언어를 지정할 수도 있습니다. 😊<br>
 더 궁금한 점이 있으면 언제든지 질문해주세요! 🚀<br>
 <br>
+<img src="https://i.namu.wiki/i/Iox1wmLAQlMRtBXMU1HbLtLj6x5bQRqCK-KOEBHDx3IUlET2r_KmikkLkrJq9GDBLWSx6tLy_NJf-ynlwvnsjg.jpg\\" width="200">
 👉 더 많은 정보는 GPTOnline.ai에서 확인하세요! 🚀<br>
 
